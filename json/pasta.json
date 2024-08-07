@@ -1,0 +1,93 @@
+[
+    {
+        "type": "pasta",
+        "foodId": "B1031",
+        "foodName": "Chicken n Cheese Pasta",
+        "price": "1600",
+        "discount": "15",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "pasta",
+        "foodId": "B1032",
+        "foodName": "Chicken Penne Pasta",
+        "price": "1700",
+        "discount": "0",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "pasta",
+        "foodId": "B1033",
+        "foodName": "Ground Turkey Pasta Bake",
+        "price": "2900",
+        "discount": "10",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "pasta",
+        "foodId": "B1034",
+        "foodName": "Creamy Shrimp Pasta",
+        "price": "2000",
+        "discount": "0",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "pasta",
+        "foodId": "B1035",
+        "foodName": "Lemon Butter Pasta",
+        "price": "1950",
+        "discount": "0",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "pasta",
+        "foodId": "B1036",
+        "foodName": "Tagliatelle Pasta",
+        "price": "2400",
+        "discount": "1",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "pasta",
+        "foodId": "B1037",
+        "foodName": "Baked Ravioli",
+        "price": "2000",
+        "discount": "1",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    }
+]

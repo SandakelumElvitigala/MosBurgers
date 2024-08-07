@@ -1,0 +1,19 @@
+.itemrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.itemrow .card{ 
+    margin-top: 20px;
+    width: 85%;
+    height: 85%;
+}
+
+.content{
+    overflow-y: scroll;
+}
+
+.foodcard{
+    background: rgba(253, 253, 253, 0.755);
+}

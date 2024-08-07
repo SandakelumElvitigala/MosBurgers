@@ -1,0 +1,80 @@
+[
+    {
+        "type": "fries",
+        "foodId": "B1025",
+        "foodName": "Steak Fries ( Large )",
+        "price": "1200",
+        "discount": "0",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "fries",
+        "foodId": "B1026",
+        "foodName": "Steak Fries ( Medium )",
+        "price": "600",
+        "discount": "0",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "fries",
+        "foodId": "B1027",
+        "foodName": "French Fries ( Large )",
+        "price": "800",
+        "discount": "0",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "fries",
+        "foodId": "B1028",
+        "foodName": "French Fries ( Medium )",
+        "price": "650",
+        "discount": "0",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "fries",
+        "foodId": "B1029",
+        "foodName": "French Fries ( Small )",
+        "price": "450",
+        "discount": "0",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "fries",
+        "foodId": "B1030",
+        "foodName": "Sweet Potato Fries ( Large )",
+        "price": "600",
+        "discount": "0",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    }
+]

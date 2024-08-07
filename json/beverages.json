@@ -1,0 +1,54 @@
+[
+    {
+        "type": "beverages",
+        "foodId": "B1044",
+        "foodName": "Pepsi (330ml)",
+        "price": "990",
+        "discount": "5",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "beverages",
+        "foodId": "B1045",
+        "foodName": "Coca-Cola (330ml)",
+        "price": "1230",
+        "discount": "0",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "beverages",
+        "foodId": "B1046",
+        "foodName": "Sprite (330ml)",
+        "price": "1500",
+        "discount": "3",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    },
+    {
+        "type": "beverages",
+        "foodId": "B1047",
+        "foodName": "Mirinda (330ml)",
+        "price": "850",
+        "discount": "7",
+        "img": "",
+        "passkey": "123456",
+        "time": "",
+        "date": "",
+        "stock": "20",
+        "exp": "2024-09-10"
+    }
+]

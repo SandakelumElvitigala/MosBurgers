@@ -1,0 +1,123 @@
+.homenav{
+    background: rgba(255, 255, 255, 0);
+}
+
+.tint{
+    width: 100vw;
+    height: 100vh;
+    background-color: #050000b6;
+}
+
+.custom-brand {
+    color: #ff00bf !important;
+    font-family: "Edu AU VIC WA NT Hand";
+    font-weight: bold; 
+    font-size: 50px; 
+    letter-spacing: 5px;
+}
+
+.navbar-brand span{
+    font-size: 15px;
+}
+
+.displayrow{
+    margin-top: 90px;
+    background: #00000060;
+    width: 100.9vw;
+    height: 10vh;
+}
+
+.displayrow .col{
+    margin-top: 20px;
+    font-size: 16px;
+    color: white;
+    letter-spacing: 3px;
+}
+
+.spacerow{
+    height: 7vh;
+}
+
+.buttonrow{
+    height: 50vh;
+    width: 90vw;
+}
+
+.selection{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.selection button{
+    height: 90%;
+    width: 90%;
+    border-style: none;
+    border-radius: 20px;
+    font-size: 22px;
+    letter-spacing: 4px;
+    color: #d3d9e9;
+    text-shadow: 4px 4px 8px #000000;
+}
+
+.selection button:hover{
+    height: 90%;
+    width: 90%;
+    border-style: none;
+    border-radius: 20px;
+    font-size: 22px;
+    letter-spacing: 5px;
+    color: white;
+}
+
+.inventory{
+    background: linear-gradient(to right, #54617450, #3b444f59, #252a3173);
+}
+
+.order{
+    background: linear-gradient(to right, #96cb1b21, #87b61a44, #85b41752);
+}
+
+.previous{
+    background: linear-gradient(to right, #f4b6521e, #f7b64e27, #f6b44937);
+}
+
+.manage{
+    background: linear-gradient(to right, #6b20051a, #6b200549, #6b20056f);
+}
+
+.inventory:hover{
+    background: linear-gradient(to right, #5461749f, #3b444fad, #252a31e1);
+}
+
+.order:hover{
+    background: linear-gradient(to right,  #96cb1b86, #87b61aa3, #85b417d0);
+}
+
+.previous:hover{
+    background: linear-gradient(to right, #f4b65282, #f7b64e9f, #f6b449c6);
+}
+
+.manage:hover{
+    background: linear-gradient(to right, #6b200560, #6b200599, #6b2005cc);
+}
+
+.displayrow1{
+    margin-top: 90px;
+    background: #000000ba;
+    width: 100.9vw;
+    height: 12vh;
+}
+
+.displayrow1 .col-sm-1 .btn{
+    margin-top: 2vh;
+    height: 8vh;
+    width: 8vh;
+    border-radius: 50%;
+}
+
+.displayrow1 .col-sm-10 h5{
+    margin-top: 4vh;
+    color: white;
+}

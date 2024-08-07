@@ -1,0 +1,65 @@
+.content {
+    height: 74vh;
+    background: #00000016;
+}
+
+.btns {
+    height: 74vh;
+}
+
+.col-sm-2 {
+
+    height: 74vh;
+}
+
+.btnrow {
+    height: 50%;
+    width: 100%;
+    margin-right: 0;
+}
+
+.btncol {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.uprow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btncol button {
+    height: 90%;
+    width: 90%;
+    background: linear-gradient(to right, #daac6f1f, #cf9f5f41, #fdcd8f5a);
+    border: none;
+    font-family: "Edu AU VIC WA NT Hand";
+    font-size: 130%;
+    color: rgba(255, 255, 255, 0.321);
+    font-weight: bold;
+}
+
+.btncol button:hover {
+    height: 92%;
+    width: 92%;
+    background: linear-gradient(to right, #daac6f52, #cf9f5f77, #fdcd8f8d);
+    letter-spacing: 5px;
+}
+
+.uprow button {
+    font-family: "Edu AU VIC WA NT Hand";
+    height: 50px;
+    border-radius: 20px;
+    background: linear-gradient(to right, #8bb56a2d, #73a84b79, #648d447c);
+    border: none;
+}
+
+.uprow button:hover {
+    border-radius: 10px;
+    background: linear-gradient(to right, #8bb56ab6, #73a84bc6, #648d44c0);
+    border: none;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}

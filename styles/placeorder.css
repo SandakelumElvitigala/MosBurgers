@@ -1,0 +1,61 @@
+.contcol{
+    height: 66vh;
+    overflow-y: scroll;
+}
+
+.topicrow{
+    width: 95%;
+    height: 7vh; 
+    display: flex;
+    align-content: center;  
+}
+
+.topiccol{
+    width: 95%;
+    height: 100%;
+    background: #cdbd0782;
+    margin-left: 3%;
+    border-radius: 25px;
+    display: flex;
+    align-content: center;
+}
+
+.topiccol h5{
+    font-family: "Edu AU VIC WA NT Hand";
+    margin-left: 5%;
+    align-content: center;
+}
+
+.itemrow{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    height: auto;
+}
+.col-md-3{
+    justify-content: center;    
+}
+
+.box{
+    height: 95%;
+    width: 95%;
+    background: #fcfcfc70;
+}
+
+.itemrow1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.itemrow1 .card{ 
+    margin-top: 20px;
+    width: 85%;
+    height: 85%;
+}
+
+.number-input {
+    width: 50%;
+    border-radius: 8px;
+    text-align: center;
+}
+

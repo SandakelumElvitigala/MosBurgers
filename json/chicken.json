@@ -1,0 +1,81 @@
+[
+  {
+    "type": "chicken",
+    "foodId": "B1038",
+    "foodName": "Fried Chicken (Small)",
+    "price": "1200",
+    "discount": "0",
+    "img": "",
+    "passkey": "123456",
+    "time": "",
+    "date": "",
+    "stock": "20",
+    "exp": "2024-09-10"
+  },
+  {
+    "type": "chicken",
+    "foodId": "B1039",
+    "foodName": "Fried Chicken (Regular)",
+    "price": "2300",
+    "discount": "10",
+    "img": "",
+    "passkey": "123456",
+    "time": "",
+    "date": "",
+    "stock": "20",
+    "exp": "2024-09-10"
+  },
+  {
+    "type": "chicken",
+    "foodId": "B1040",
+    "foodName": "Fried Chicken (Large)",
+    "price": "3100",
+    "discount": "5",
+    "img": "",
+    "passkey": "123456",
+    "time": "",
+    "date": "",
+    "stock": "20",
+    "exp": "2024-09-10"
+  },
+  {
+    "type": "chicken",
+    "foodId": "B1041",
+    "foodName": "Hot Wings (Large)",
+    "price": "2400",
+    "discount": "0",
+    "img": "",
+    "passkey": "123456",
+    "time": "",
+    "date": "",
+    "stock": "20",
+    "exp": "2024-09-10"
+  },
+  {
+    "type": "chicken",
+    "foodId": "B1042",
+    "foodName": "Devilled Chicken (Large)",
+    "price": "900",
+    "discount": "0",
+    "img": "",
+    "passkey": "123456",
+    "time": "",
+    "date": "",
+    "stock": "20",
+    "exp": "2024-09-10"
+  },
+  {
+    "type": "chicken",
+    "foodId": "B1043",
+    "foodName": "BBQ Chicken (Regular)",
+    "price": "2100",
+    "discount": "0",
+    "img": "",
+    "passkey": "123456",
+    "time": "",
+    "date": "",
+    "stock": "20",
+    "exp": "2024-09-10"
+  }
+  
+]

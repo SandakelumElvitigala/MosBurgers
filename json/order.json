@@ -1,0 +1,279 @@
+[
+  {
+    "id": 1722789648390,
+    "items": [
+      "B1004",
+      "B1012",
+      "B1035"
+    ],
+    "qtys": [
+      "5",
+      "3",
+      "1"
+    ],
+    "prices": [
+      "Rs.1400",
+      "Rs.1250",
+      "Rs.1950"
+    ],
+    "discounts": [
+      "0%",
+      "20%",
+      "0%"
+    ],
+    "tot": [
+      "Rs.7000.00",
+      "Rs.3000.00",
+      "Rs.1950.00"
+    ],
+    "total": 11950,
+    "customerName": "kalpa",
+    "customerContact": "0786080817",
+    "dateTime": "Sunday, 4 August 2024 at 22:10:48 GMT+5:30"
+  },
+  {
+    "id": 1722803405486,
+    "items": [
+      "B1009",
+      "B1002"
+    ],
+    "qtys": [
+      "7",
+      "11"
+    ],
+    "prices": [
+      "Rs.800",
+      "Rs.1500"
+    ],
+    "discounts": [
+      "0%",
+      "15%"
+    ],
+    "tot": [
+      "Rs.5600.00",
+      "Rs.14025.00"
+    ],
+    "total": 19625,
+    "customerName": "ajith",
+    "customerContact": "0724139166",
+    "dateTime": "Monday, 5 August 2024 at 02:00:05 GMT+5:30"
+  },
+  {
+    "id": 1722811351697,
+    "items": [
+      "B1003"
+    ],
+    "qtys": [
+      "3"
+    ],
+    "prices": [
+      "Rs.1600"
+    ],
+    "discounts": [
+      "0%"
+    ],
+    "tot": [
+      "Rs.4800.00"
+    ],
+    "total": 4800,
+    "customerName": "elv",
+    "customerContact": "5",
+    "dateTime": "Monday, 5 August 2024 at 04:12:31 GMT+5:30"
+  },
+  {
+    "id": 1722846332173,
+    "items": [
+      "B1003"
+    ],
+    "qtys": [
+      "1"
+    ],
+    "prices": [
+      "Rs.1600"
+    ],
+    "discounts": [
+      "0%"
+    ],
+    "tot": [
+      "Rs.1600.00"
+    ],
+    "total": 1600,
+    "customerName": "d",
+    "customerContact": "df",
+    "dateTime": "Monday, 5 August 2024 at 13:55:32 GMT+5:30"
+  },
+  {
+    "id": 1722878872003,
+    "items": [
+      "B1001"
+    ],
+    "qtys": [
+      "3"
+    ],
+    "prices": [
+      "Rs.750"
+    ],
+    "discounts": [
+      "0%"
+    ],
+    "tot": [
+      "Rs.2250.00"
+    ],
+    "total": 2250,
+    "customerName": "kaslpa",
+    "customerContact": "ef",
+    "dateTime": "Monday, 5 August 2024 at 22:57:52 GMT+5:30"
+  },
+  {
+    "id": 1722878960137,
+    "items": [
+      "B1001"
+    ],
+    "qtys": [
+      "2"
+    ],
+    "prices": [
+      "Rs.750"
+    ],
+    "discounts": [
+      "0%"
+    ],
+    "tot": [
+      "Rs.1500.00"
+    ],
+    "total": 1500,
+    "customerName": "a",
+    "customerContact": "a",
+    "dateTime": "Monday, 5 August 2024 at 22:59:20 GMT+5:30"
+  },
+  {
+    "id": 1722879130497,
+    "items": [
+      "B1001"
+    ],
+    "qtys": [
+      "4"
+    ],
+    "prices": [
+      "Rs.750"
+    ],
+    "discounts": [
+      "0%"
+    ],
+    "tot": [
+      "Rs.3000.00"
+    ],
+    "total": 3000,
+    "customerName": "c",
+    "customerContact": "c",
+    "dateTime": "Monday, 5 August 2024 at 23:02:10 GMT+5:30"
+  },
+  {
+    "id": 1722879582611,
+    "items": [
+      "B1003",
+      "B1001"
+    ],
+    "qtys": [
+      "3",
+      "3"
+    ],
+    "prices": [
+      "Rs.1600",
+      "Rs.750"
+    ],
+    "discounts": [
+      "0%",
+      "0%"
+    ],
+    "tot": [
+      "Rs.4800.00",
+      "Rs.2250.00"
+    ],
+    "total": 7050,
+    "customerName": "a",
+    "customerContact": "a",
+    "dateTime": "Monday, 5 August 2024 at 23:09:42 GMT+5:30"
+  },
+  {
+    "id": 1722880473210,
+    "items": [
+      "B1002"
+    ],
+    "qtys": [
+      "3"
+    ],
+    "prices": [
+      "Rs.1500"
+    ],
+    "discounts": [
+      "15%"
+    ],
+    "tot": [
+      "Rs.3825.00"
+    ],
+    "total": 3825,
+    "customerName": "1",
+    "customerContact": "1",
+    "dateTime": "Monday, 5 August 2024 at 23:24:33 GMT+5:30"
+  },
+  {
+    "id": 1722950271232,
+    "items": [
+      "B1001",
+      "B1002"
+    ],
+    "qtys": [
+      "3",
+      "15"
+    ],
+    "prices": [
+      "Rs.750",
+      "Rs.1500"
+    ],
+    "discounts": [
+      "0%",
+      "15%"
+    ],
+    "tot": [
+      "Rs.2250.00",
+      "Rs.19125.00"
+    ],
+    "total": 21375,
+    "customerName": "kalpa",
+    "customerContact": "0786080817",
+    "dateTime": "Tuesday, 6 August 2024 at 18:47:51 GMT+5:30"
+  },
+  {
+    "id": 1722951186228,
+    "items": [
+      "B1001",
+      "B1001",
+      "B1001"
+    ],
+    "qtys": [
+      "1",
+      "1",
+      "1"
+    ],
+    "prices": [
+      "Rs.750",
+      "Rs.750",
+      "Rs.750"
+    ],
+    "discounts": [
+      "0%",
+      "0%",
+      "0%"
+    ],
+    "tot": [
+      "Rs.750.00",
+      "Rs.750.00",
+      "Rs.750.00"
+    ],
+    "total": 2250,
+    "customerName": "a",
+    "customerContact": "a",
+    "dateTime": "Tuesday, 6 August 2024 at 19:03:06 GMT+5:30"
+  }
+]

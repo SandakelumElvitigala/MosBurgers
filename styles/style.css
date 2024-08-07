@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('../assests/bg1.jpg!d'); /* Corrected path */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.clock {
+    font-size: 25px;
+    background: transparent;
+    color: white;
+}
+
+.date{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.642);
+}
+
+.time{
+    color: gray;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.maincontainer {
+    width: 30vw;
+    height: 60vh;
+    margin-top: 10vh;
+    background: rgba(3, 3, 3, 0.479); /* Corrected color value */
+    text-align: center;
+}
+
+.maincontainer h1 {
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    color: white;
+    margin-top: 20vh;
+    letter-spacing: 20px;
+}
+
+.maincontainer h6 {
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    color: white;
+    letter-spacing: 10px;
+}
+
+.maincontainer .row {
+    width: 80%;
+    margin-top: 20px;
+}
+
+.maincontainer .row input {
+    width: 100%;
+    height: 50px;
+    border-radius: 25px;
+    background: #ffffff89;
+    padding: 10px;
+    border: none;
+}
+
+.maincontainer .row .btn-outline-success {
+    border-radius: 25px;
+    height: 50px;
+    padding: 0 20px;
+}
